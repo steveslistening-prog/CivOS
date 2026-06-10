@@ -4,6 +4,6 @@ CivOS is a structured, multi‑layer civilisational operating model defining pri
 This repository contains the CivOS project documents.
 
 - BOSCARD
-- L0 Deliverables
+- Deliverables for each level (L0-7)
 - Diagrams
 - Roadmap
